@@ -11,7 +11,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.example.androidsample"
+        applicationId "com.ebookfrenzy.statechange"
         minSdk 26
         targetSdk 31
         versionCode 1

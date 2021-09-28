@@ -6,12 +6,8 @@ plugins {
 android {
     compileSdk 31
 
-    buildFeatures {
-        viewBinding true
-    }
-
     defaultConfig {
-        applicationId "com.example.androidsample"
+        applicationId "com.ebookfrenzy.layoutsample"
         minSdk 26
         targetSdk 31
         versionCode 1
