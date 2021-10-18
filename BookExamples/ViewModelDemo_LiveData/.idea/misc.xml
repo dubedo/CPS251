@@ -3,9 +3,9 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Users/idube/Desktop/WCCgit/Fall21/CPS251/Assignments/NameSaveDataMP03/app/src/main/res/layout/main_activity.xml" value="0.43385416666666665" />
-        <entry key="..\:/Users/idube/Desktop/WCCgit/Fall21/CPS251/Assignments/NameSaveDataMP03/app/src/main/res/layout/main_fragment.xml" value="0.43385416666666665" />
-        <entry key="..\:/Users/idube/Desktop/WCCgit/Fall21/CPS251/MP03/app/src/main/res/layout/main_fragment.xml" value="0.5" />
+        <entry key="..\:/Users/idube/Desktop/WCCgit/Fall21/CPS251/BookExamples/ViewModelDemo/app/src/main/res/layout/main_fragment.xml" value="0.2851851851851852" />
+        <entry key="..\:/Users/idube/Desktop/WCCgit/Fall21/CPS251/BookExamples/ViewModelDemo_LiveData/app/src/main/res/layout/main_fragment.xml" value="0.575" />
+        <entry key="..\:/Users/idube/Desktop/WCCgit/Fall21/CPS251/ViewModelDemo/app/src/main/res/layout/main_fragment.xml" value="0.5609375" />
       </map>
     </option>
   </component>

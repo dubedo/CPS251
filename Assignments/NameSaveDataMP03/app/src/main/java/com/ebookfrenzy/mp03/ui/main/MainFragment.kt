@@ -37,7 +37,7 @@ class MainFragment : Fragment() {
         viewModel = ViewModelProvider(this).get(MainViewModel::class.java)
         // TODO: Use the ViewModel
 
-        binding.textView.text = "No Names to Display"
+        binding.textView.text = viewModel.getNameList()
 
 
         binding.button.setOnClickListener {

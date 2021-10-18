@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">MP03</string>
+    <string name="app_name">NameSaveDataMP03</string>
     <string name="add_name">Add Name</string>
     <string name="textview">TextView</string>
     <string name="enter_name">Enter Name</string>
