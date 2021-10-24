@@ -1,6 +1,0 @@
-<resources>
-    <string name="app_name">NameSaveDataBindingMP04</string>
-    <string name="add_name">Add Name</string>
-    <string name="textview">TextView</string>
-    <string name="enter_name">Enter Name</string>
-</resources>
