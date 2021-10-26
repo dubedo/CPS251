@@ -13,51 +13,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="63a9d5f1-1c4f-4574-b92f-399b08ee5dd4" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../ViewModelDemo_LiveData/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ViewModelDemo_LiveData/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ViewModelDemo_LiveData/.idea/.name" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ViewModelDemo_LiveData/.idea/codeStyles/Project.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ViewModelDemo_LiveData/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ViewModelDemo_LiveData/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ViewModelDemo_LiveData/.idea/gradle.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ViewModelDemo_LiveData/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ViewModelDemo_LiveData/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ViewModelDemo_LiveData/app/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ViewModelDemo_LiveData/app/build.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ViewModelDemo_LiveData/app/proguard-rules.pro" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ViewModelDemo_LiveData/app/src/androidTest/java/com/ebookfrenzy/viewmodeldemo/ExampleInstrumentedTest.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ViewModelDemo_LiveData/app/src/main/AndroidManifest.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ViewModelDemo_LiveData/app/src/main/java/com/ebookfrenzy/viewmodeldemo/MainActivity.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ViewModelDemo_LiveData/app/src/main/java/com/ebookfrenzy/viewmodeldemo/ui/main/MainFragment.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ViewModelDemo_LiveData/app/src/main/java/com/ebookfrenzy/viewmodeldemo/ui/main/MainViewModel.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ViewModelDemo_LiveData/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ViewModelDemo_LiveData/app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ViewModelDemo_LiveData/app/src/main/res/layout/main_activity.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ViewModelDemo_LiveData/app/src/main/res/layout/main_fragment.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ViewModelDemo_LiveData/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ViewModelDemo_LiveData/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ViewModelDemo_LiveData/app/src/main/res/mipmap-hdpi/ic_launcher.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ViewModelDemo_LiveData/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ViewModelDemo_LiveData/app/src/main/res/mipmap-mdpi/ic_launcher.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ViewModelDemo_LiveData/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ViewModelDemo_LiveData/app/src/main/res/mipmap-xhdpi/ic_launcher.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ViewModelDemo_LiveData/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ViewModelDemo_LiveData/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ViewModelDemo_LiveData/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ViewModelDemo_LiveData/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ViewModelDemo_LiveData/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ViewModelDemo_LiveData/app/src/main/res/values-night/themes.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ViewModelDemo_LiveData/app/src/main/res/values/colors.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ViewModelDemo_LiveData/app/src/main/res/values/strings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ViewModelDemo_LiveData/app/src/main/res/values/themes.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ViewModelDemo_LiveData/app/src/test/java/com/ebookfrenzy/viewmodeldemo/ExampleUnitTest.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ViewModelDemo_LiveData/build.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ViewModelDemo_LiveData/gradle.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ViewModelDemo_LiveData/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ViewModelDemo_LiveData/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ViewModelDemo_LiveData/gradlew" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ViewModelDemo_LiveData/gradlew.bat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ViewModelDemo_LiveData/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ViewModelDemo_LiveData/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../ViewModelDemo_LiveData/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ViewModelDemo_LiveData/app/src/main/java/com/ebookfrenzy/viewmodeldemo/ui/main/MainFragment.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../ViewModelDemo_LiveData/app/src/main/java/com/ebookfrenzy/viewmodeldemo/ui/main/MainFragment.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ViewModelDemo_LiveData/app/src/main/java/com/ebookfrenzy/viewmodeldemo/ui/main/MainViewModel.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../ViewModelDemo_LiveData/app/src/main/java/com/ebookfrenzy/viewmodeldemo/ui/main/MainViewModel.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -147,7 +105,9 @@
       <option name="ACTIVITY_CLASS" value="" />
       <option name="SEARCH_ACTIVITY_IN_GLOBAL_SCOPE" value="false" />
       <option name="SKIP_ACTIVITY_VALIDATION" value="false" />
-      <method v="2" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
     </configuration>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -171,6 +131,5 @@
         </entry>
       </map>
     </option>
-    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
