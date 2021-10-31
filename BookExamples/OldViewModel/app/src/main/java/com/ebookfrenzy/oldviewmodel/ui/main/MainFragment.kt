@@ -1,17 +1,14 @@
 package com.ebookfrenzy.oldviewmodel.ui.main
 
-import androidx.lifecycle.ViewModelProvider
 import android.os.Bundle
-import androidx.fragment.app.Fragment
-import androidx.lifecycle.Observer
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
-import com.ebookfrenzy.oldviewmodel.R
-
-import com.ebookfrenzy.oldviewmodel.databinding.MainFragmentBinding
-
+import androidx.fragment.app.Fragment
+import androidx.lifecycle.Observer
 import androidx.lifecycle.SavedStateViewModelFactory
+import androidx.lifecycle.ViewModelProvider
+import com.ebookfrenzy.oldviewmodel.databinding.MainFragmentBinding
 
 class MainFragment : Fragment() {
 
