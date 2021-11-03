@@ -29,6 +29,10 @@
             android:name="msgArg"
             android:defaultValue="Empty For Now"
             app:argType="string" />
+        <argument
+            android:name="imgArg"
+            app:argType="integer"
+            android:defaultValue="0" />
 
 
     </fragment>

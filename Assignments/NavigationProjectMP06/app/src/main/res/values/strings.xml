@@ -5,9 +5,9 @@
     <string name="button_2">Button 2</string>
     <string name="button_1">Button 1</string>
     <string name="button_3">Button 3</string>
-    <string name="img3">Img3</string>
-    <string name="img1">Img1</string>
-    <string name="img2">Img2</string>
+    <string name="img3">Image 3</string>
+    <string name="img1">Image 1</string>
+    <string name="img2">Image 2</string>
     <string name="placeholder">PlaceHolder</string>
     <string name="textview">TextView</string>
 </resources>

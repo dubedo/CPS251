@@ -55,7 +55,7 @@ class SecondFragment : Fragment() {
             val args = SecondFragmentArgs.fromBundle(it)
             binding.argText.text = args.msgArg
 
-           // binding.argImg.id = args.imgArg
+           binding.argImg.setImageResource(args.imgArg)
         }
     }
 
