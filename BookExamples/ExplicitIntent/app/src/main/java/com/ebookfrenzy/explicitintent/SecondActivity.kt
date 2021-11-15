@@ -26,4 +26,19 @@ class SecondActivity : AppCompatActivity() {
 
 
     }
+
+    fun returnText(view: View) {
+        finish()
+    }
+
+    override fun finish() {
+        val data = Intent()
+
+        val returnString = binding.editText2.text.toString()
+        data.putExtra("returnData", returnString)
+
+        setResult(RESULT_OK, data)
+
+        super.finish()
+    }
 }
