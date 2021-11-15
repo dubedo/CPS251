@@ -36,7 +36,8 @@ class RecyclerAdapter : RecyclerView.Adapter<RecyclerAdapter.ViewHolder>() {
             itemView.setOnClickListener { v: View ->
                 var position: Int = getAdapterPosition()
 
-                Snackbar.make(v, "Click Detected on Item $position", Snackbar.LENGTH_LONG).setAction("Action", null).show()
+                Snackbar.make(v, "Click Detected on Item $position", Snackbar.LENGTH_LONG).setAction("Action", null)
+                    .show()
             }
 
         }

@@ -13,15 +13,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7925bfd0-3ab6-4f52-a7dd-5548b785ebad" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../NavigationProjectMP06/app/src/main/res/drawable-v24/android_image_1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../NavigationProjectMP06/app/src/main/res/drawable-v24/android_image_2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../NavigationProjectMP06/app/src/main/res/drawable-v24/android_image_3.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Assignments/LayoutProjectMP01/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignments/LayoutProjectMP01/app/src/main/res/layout/activity_main.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BookExamples/NavigationDemo/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../BookExamples/NavigationDemo/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/ebookfrenzy/lifecycledemomp05/DemoObserver.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/ebookfrenzy/lifecycledemomp05/DemoObserver.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/ebookfrenzy/lifecycledemomp05/ui/main/MainFragment.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/ebookfrenzy/lifecycledemomp05/ui/main/MainFragment.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/ebookfrenzy/lifecycledemomp05/ui/main/MainViewModel.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/ebookfrenzy/lifecycledemomp05/ui/main/MainViewModel.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/main_fragment.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/main_fragment.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../BookExamples/ExplicitIntent/app/src/main/java/com/ebookfrenzy/explicitintent/SecondActivity.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../BookExamples/ExplicitIntent/app/src/main/res/layout/activity_second.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Recycler_CardViewMP07/app/src/main/java/com/ebookfrenzy/recycler_cardviewmp07/Data.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Recycler_CardViewMP07/app/src/main/res/drawable-v24/android_image_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Recycler_CardViewMP07/app/src/main/res/drawable-v24/android_image_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Recycler_CardViewMP07/app/src/main/res/drawable-v24/android_image_3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Recycler_CardViewMP07/app/src/main/res/drawable-v24/android_image_4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Recycler_CardViewMP07/app/src/main/res/drawable-v24/android_image_5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Recycler_CardViewMP07/app/src/main/res/drawable-v24/android_image_6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Recycler_CardViewMP07/app/src/main/res/drawable-v24/android_image_7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Recycler_CardViewMP07/app/src/main/res/drawable-v24/android_image_8.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../BookExamples/CardDemo/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../BookExamples/CardDemo/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../BookExamples/CardDemo/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../BookExamples/CardDemo/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../BookExamples/CardDemo/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../BookExamples/CardDemo/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../BookExamples/CardDemo/app/src/main/java/com/ebookfrenzy/carddemo/MainActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../BookExamples/CardDemo/app/src/main/java/com/ebookfrenzy/carddemo/MainActivity.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../BookExamples/CardDemo/app/src/main/java/com/ebookfrenzy/carddemo/RecyclerAdapter.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../BookExamples/CardDemo/app/src/main/java/com/ebookfrenzy/carddemo/RecyclerAdapter.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,7 +49,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
   <component name="ProjectId" id="202z4q7CcfRGL79cxHTpd15Yeku" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
