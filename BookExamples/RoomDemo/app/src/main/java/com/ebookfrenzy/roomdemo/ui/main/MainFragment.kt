@@ -6,6 +6,7 @@ import androidx.fragment.app.Fragment
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
+import android.widget.Toast
 import com.ebookfrenzy.roomdemo.R
 
 import androidx.lifecycle.Observer
@@ -56,7 +57,7 @@ class MainFragment : Fragment() {
                 viewModel.insertProduct(product)
                 clearFields()
             } else {
-                binding.productID.text = "Incomplete information"
+                Toast.makeText(activity, resources.getString(R.string.invalidAdd), Toast.LENGTH_LONG).show()
             }
         }
 
